@@ -1,0 +1,31 @@
+odd numbers algorithm 
+
+i=1 ; i<100 ; i=+2
+if (i=1  printed)
+    i=+2 <100
+    process repeat again
+else
+    stop
+    
+    
+    
+even numbers algorithm
+
+i=0  ; i<=100 ; i=+2
+if (i=0  printed)
+   i=+2  <=100
+   process repeat again
+else
+   stop
+   
+   
+   
+arbitrary numbers between 10-20
+i=11  ; i<20 ; i++
+if (i=11 printed)
+    i++ <20
+    process repeat again
+else 
+    stop
+
+
