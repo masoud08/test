@@ -27,5 +27,11 @@ if (i=11 printed)
     process repeat again
 else 
     stop
+    
+ 2)
+ N=(USER INPUT)=100
+
+SUM=N*(N+1)/2
+prin sum
 
 
