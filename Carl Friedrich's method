@@ -1,0 +1,4 @@
+N=(USER INPUT)=100
+
+SUM=N*(N+1)/2
+prin sum
