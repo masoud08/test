@@ -11,8 +11,8 @@ else
     
 even numbers algorithm
 
-i=0  ; i<=100 ; i=+2
-if (i=0  printed)
+i=2  ; i<=100 ; i=+2
+if (i=2  printed)
    i=+2  <=100
    process repeat again
 else
