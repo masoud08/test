@@ -1,0 +1,7 @@
+N1 = input
+N2 = input
+Sum= 0
+For (i=N1; i<=i++N2; ){
+Sum += i
+}
+Print sum;
